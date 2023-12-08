@@ -1,0 +1,13 @@
+"users":[
+	{
+		"id" : 1,
+		"name" : "Oleg",
+		"surname" : "Nezhelskiy"
+	}
+]
+"products":[
+	{
+		"name" : "Apple",
+		"price" : 10
+	}
+]
